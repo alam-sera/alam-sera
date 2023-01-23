@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/nhlBSxKHelzHs7m93O/giphy.gif" height=40> ABOUT ME
     <ul> Currently studying Full stack at Actualize Coding Bootcamp </ul>
     <ul> Enjoy playing video games and camping outdoors </ul>
-    <ul> Can speak Chinese/Vietnamese/Korean </ul>
+    <ul> Can speak Chinese </ul>
 </div>
 &nbsp;
 
